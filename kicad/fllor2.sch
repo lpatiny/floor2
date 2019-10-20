@@ -1,0 +1,346 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5DAC9B14
+P 3750 2350
+F 0 "J1" H 3858 2531 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3858 2440 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3750 2350 50  0001 C CNN
+F 3 "~" H 3750 2350 50  0001 C CNN
+	1    3750 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5DAC9BCC
+P 3750 2500
+F 0 "J3" H 3858 2681 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3858 2590 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3750 2500 50  0001 C CNN
+F 3 "~" H 3750 2500 50  0001 C CNN
+	1    3750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 5DAC9EB1
+P 3750 2650
+F 0 "J5" H 3858 2831 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3858 2740 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3750 2650 50  0001 C CNN
+F 3 "~" H 3750 2650 50  0001 C CNN
+	1    3750 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5DAD0FEA
+P 5550 2350
+F 0 "J2" H 5522 2282 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 5522 2373 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 5550 2350 50  0001 C CNN
+F 3 "~" H 5550 2350 50  0001 C CNN
+	1    5550 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 5DAD1C08
+P 5550 2500
+F 0 "J4" H 5522 2432 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 5522 2523 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 5550 2500 50  0001 C CNN
+F 3 "~" H 5550 2500 50  0001 C CNN
+	1    5550 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 5DAD224A
+P 5550 2650
+F 0 "J6" H 5522 2582 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 5522 2673 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 5550 2650 50  0001 C CNN
+F 3 "~" H 5550 2650 50  0001 C CNN
+	1    5550 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J12
+U 1 1 5DAD25D7
+P 5000 3050
+F 0 "J12" V 5154 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 5063 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 5000 3050 50  0001 C CNN
+F 3 "~" H 5000 3050 50  0001 C CNN
+	1    5000 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J11
+U 1 1 5DAD36BD
+P 4850 3050
+F 0 "J11" V 5004 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 4913 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 4850 3050 50  0001 C CNN
+F 3 "~" H 4850 3050 50  0001 C CNN
+	1    4850 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J10
+U 1 1 5DAD3F0C
+P 4700 3050
+F 0 "J10" V 4854 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 4763 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 4700 3050 50  0001 C CNN
+F 3 "~" H 4700 3050 50  0001 C CNN
+	1    4700 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J9
+U 1 1 5DAD447C
+P 4550 3050
+F 0 "J9" V 4704 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 4613 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 4550 3050 50  0001 C CNN
+F 3 "~" H 4550 3050 50  0001 C CNN
+	1    4550 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5DAD4B78
+P 3650 1800
+F 0 "H1" H 3750 1846 50  0000 L CNN
+F 1 "MountingHole" H 3750 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 3650 1800 50  0001 C CNN
+F 3 "~" H 3650 1800 50  0001 C CNN
+	1    3650 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5DAD549F
+P 3950 1800
+F 0 "H2" H 4050 1846 50  0000 L CNN
+F 1 "MountingHole" H 4050 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 3950 1800 50  0001 C CNN
+F 3 "~" H 3950 1800 50  0001 C CNN
+	1    3950 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5DAD561B
+P 4250 1800
+F 0 "H3" H 4350 1846 50  0000 L CNN
+F 1 "MountingHole" H 4350 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4250 1800 50  0001 C CNN
+F 3 "~" H 4250 1800 50  0001 C CNN
+	1    4250 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5DAD58FC
+P 4550 1800
+F 0 "H4" H 4650 1846 50  0000 L CNN
+F 1 "MountingHole" H 4650 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4550 1800 50  0001 C CNN
+F 3 "~" H 4550 1800 50  0001 C CNN
+	1    4550 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5DAD5C51
+P 4150 2650
+F 0 "#PWR0101" H 4150 2400 50  0001 C CNN
+F 1 "GND" H 4155 2477 50  0000 C CNN
+F 2 "" H 4150 2650 50  0001 C CNN
+F 3 "" H 4150 2650 50  0001 C CNN
+	1    4150 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J8
+U 1 1 5DAD68B8
+P 4400 3050
+F 0 "J8" V 4554 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 4463 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 4400 3050 50  0001 C CNN
+F 3 "~" H 4400 3050 50  0001 C CNN
+	1    4400 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 5DAD6D2C
+P 4250 3050
+F 0 "J7" V 4404 2962 50  0000 R CNN
+F 1 "Conn_01x01_Male" V 4313 2962 50  0000 R CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 4250 3050 50  0001 C CNN
+F 3 "~" H 4250 3050 50  0001 C CNN
+	1    4250 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0102
+U 1 1 5DAD7269
+P 5250 2350
+F 0 "#PWR0102" H 5250 2200 50  0001 C CNN
+F 1 "+5V" H 5265 2523 50  0000 C CNN
+F 2 "" H 5250 2350 50  0001 C CNN
+F 3 "" H 5250 2350 50  0001 C CNN
+	1    5250 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0103
+U 1 1 5DAD7C63
+P 5000 2750
+F 0 "#PWR0103" H 5000 2600 50  0001 C CNN
+F 1 "+5V" H 5015 2923 50  0000 C CNN
+F 2 "" H 5000 2750 50  0001 C CNN
+F 3 "" H 5000 2750 50  0001 C CNN
+	1    5000 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0104
+U 1 1 5DAD840A
+P 4550 2750
+F 0 "#PWR0104" H 4550 2600 50  0001 C CNN
+F 1 "+5V" H 4565 2923 50  0000 C CNN
+F 2 "" H 4550 2750 50  0001 C CNN
+F 3 "" H 4550 2750 50  0001 C CNN
+	1    4550 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0105
+U 1 1 5DAD86B0
+P 4250 2350
+F 0 "#PWR0105" H 4250 2200 50  0001 C CNN
+F 1 "+5V" H 4265 2523 50  0000 C CNN
+F 2 "" H 4250 2350 50  0001 C CNN
+F 3 "" H 4250 2350 50  0001 C CNN
+	1    4250 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 5DAD909A
+P 5250 2650
+F 0 "#PWR0106" H 5250 2400 50  0001 C CNN
+F 1 "GND" H 5255 2477 50  0000 C CNN
+F 2 "" H 5250 2650 50  0001 C CNN
+F 3 "" H 5250 2650 50  0001 C CNN
+	1    5250 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5DAD973A
+P 4700 2750
+F 0 "#PWR0107" H 4700 2500 50  0001 C CNN
+F 1 "GND" H 4705 2577 50  0000 C CNN
+F 2 "" H 4700 2750 50  0001 C CNN
+F 3 "" H 4700 2750 50  0001 C CNN
+	1    4700 2750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3950 2650 4150 2650
+Wire Wire Line
+	4150 2650 4250 2650
+Wire Wire Line
+	4250 2650 4250 2850
+Connection ~ 4150 2650
+Wire Wire Line
+	4700 2750 4700 2850
+Wire Wire Line
+	4550 2750 4550 2850
+Wire Wire Line
+	5000 2850 5000 2750
+Wire Wire Line
+	5350 2500 4850 2500
+Wire Wire Line
+	4850 2500 4850 2850
+Wire Wire Line
+	4400 2850 4400 2500
+Wire Wire Line
+	4400 2500 3950 2500
+Wire Wire Line
+	3950 2350 4250 2350
+Wire Wire Line
+	5250 2350 5350 2350
+Wire Wire Line
+	5350 2650 5250 2650
+$Comp
+L Device:LED D1
+U 1 1 5DAE8931
+P 3750 1300
+F 0 "D1" H 3743 1516 50  0000 C CNN
+F 1 "LED" H 3743 1425 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3750 1300 50  0001 C CNN
+F 3 "~" H 3750 1300 50  0001 C CNN
+	1    3750 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5DAE981C
+P 4150 1300
+F 0 "R1" V 3943 1300 50  0000 C CNN
+F 1 "R" V 4034 1300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 4080 1300 50  0001 C CNN
+F 3 "~" H 4150 1300 50  0001 C CNN
+	1    4150 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5DAEA70E
+P 3350 1300
+F 0 "#PWR0108" H 3350 1050 50  0001 C CNN
+F 1 "GND" H 3355 1127 50  0000 C CNN
+F 2 "" H 3350 1300 50  0001 C CNN
+F 3 "" H 3350 1300 50  0001 C CNN
+	1    3350 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0109
+U 1 1 5DAEAC54
+P 4450 1300
+F 0 "#PWR0109" H 4450 1150 50  0001 C CNN
+F 1 "+5V" H 4465 1473 50  0000 C CNN
+F 2 "" H 4450 1300 50  0001 C CNN
+F 3 "" H 4450 1300 50  0001 C CNN
+	1    4450 1300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 1300 4300 1300
+Wire Wire Line
+	4000 1300 3900 1300
+Wire Wire Line
+	3600 1300 3350 1300
+$EndSCHEMATC
